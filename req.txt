@@ -1,0 +1,5 @@
+https://eecs280staff.github.io/p4-web/
+The API part is optional so it can be omitted
+Only List.h and List_tests.cpp need to be submitted
+The List_tests.cpp should contain as much tests as possible because there is a lot of marks allocated to that part
+It’s actually more focused on linked list as the web part is omitted
